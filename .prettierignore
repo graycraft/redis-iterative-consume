@@ -1,0 +1,5 @@
+# Directories with auto-generated files.
+.vscode/
+coverage/
+logs/*.json
+node_modules/
