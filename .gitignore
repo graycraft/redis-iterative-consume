@@ -1,0 +1,11 @@
+# Environment variable files.
+.env*.local
+
+# Coverage directory used by tools like Vitest.
+coverage/
+
+# Logs.
+logs/*.json
+
+# Dependency directories.
+node_modules/
